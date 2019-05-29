@@ -1,0 +1,96 @@
+/* ANIMAL AND SPECIE SYSTEM STYLESHEET */
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    }
+:root {
+    /* COLOUR */
+    --color-primary: rgb(151, 73, 151);
+
+    /*FONTS SIZE */
+
+    /*PADDING SIZE */
+    --padding-link: 1rem 1.2rem;
+    
+    /* MARGIN SIDE */
+    --margin-side: 1rem;
+}
+
+::selection {
+
+}
+
+
+body {
+    font-size: 1.6rem;
+    color: #222;
+    width: 100%;
+}
+
+.container {
+
+}
+
+.header {
+    min-height: 90vh;
+    background-color:#c1c1c1;
+    text-align: center;
+    
+}
+.header__span {
+    display: block;
+    font-weight: normal;
+    color: #fff;
+}
+/* COMPONENTS */
+/* ALL HEADINGS */
+.heading {
+
+}
+
+/* HEADING H2 */
+.heading__h2{
+    
+}
+
+/* HEADING H3 */
+.heading__h3{
+
+}
+
+/* ARTICLE */
+.article {
+
+}
+
+/* PARAGRAPH */
+.paragraph {
+
+}
+
+/* LINKS */
+.link {
+    display: inline-block;
+    padding: var(--padding-link);
+    text-decoration: none;
+    text-transform: capitalize;
+    /* color:#fff; */
+    /* background-color: blue; */
+}
+/* CAPITALIZE */
+.capitalize {
+    text-transform: capitalize;
+}

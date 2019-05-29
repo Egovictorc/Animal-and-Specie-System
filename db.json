@@ -1,0 +1,5 @@
+{
+    "admin": [
+        {"id": 1, "lastName": "okafor", "firstName":"uche", "password": "password", "phoneNumber": "081349283938", "email": "egovictorc@gmail.com"  }
+    ]
+}
