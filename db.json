@@ -1,5 +1,163 @@
 {
-    "admin": [
-        {"id": 1, "lastName": "okafor", "firstName":"uche", "password": "password", "phoneNumber": "081349283938", "email": "egovictorc@gmail.com"  }
-    ]
+  "admin": [
+    {
+      "id": 1,
+      "password": "password",
+      "email": "egovictorc@gmail.com"
+    },
+    {
+      "firstName": "ego",
+      "lastName": "victor",
+      "email": "egecixhjh@gmail.com",
+      "password": "",
+      "phoneNumber": "08063904500",
+      "id": 2
+    },
+    {
+      "firstName": "emeka",
+      "lastName": "aesdgfhg",
+      "email": "onyeka@gmail.com",
+      "password": "",
+      "phoneNumber": "091111111",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 5
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 6
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 7
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 8
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 9
+    },
+    {
+      "firstName": "jddkajdsdajjsn",
+      "lastName": "sfiaskdjasjj",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 10
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 11
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 12
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 13
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 14
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 15
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 16
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 17
+    },
+    {
+      "firstName": "sfdgfhgjhkj",
+      "lastName": "sdgfhgjj",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 18
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 19
+    }
+  ],
+  "new-admin": [
+    {
+      "id": 1,
+      "lastName": "okafor",
+      "firstName": "uche",
+      "password": "password",
+      "phoneNumber": "081349283938",
+      "email": "egovictorc@gmail.com"
+    }
+  ]
 }

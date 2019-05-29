@@ -14,11 +14,13 @@ html {
 
 body {
     width: 100vw;
-    height: 100vh;
-    }
+    min-height: 100vh;
+    font-size: 1.6rem;
+}
 :root {
     /* COLOUR */
     --color-primary: rgb(151, 73, 151);
+    --color-overlay: #a1a1a1;
 
     /*FONTS SIZE */
 
@@ -33,20 +35,14 @@ body {
 
 }
 
-
-body {
-    font-size: 1.6rem;
-    color: #222;
-    width: 100%;
-}
-
 .container {
-
+    background-image: url("../images/bg-1.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .header {
     min-height: 90vh;
-    background-color:#c1c1c1;
     text-align: center;
     
 }
