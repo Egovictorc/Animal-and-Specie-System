@@ -11,6 +11,13 @@
     <script src="../js/jquery-3.4.1.min.js"></script>
   </head>
 
+  <style>
+  .admin__main {
+    position: absolute;
+    top: 10rem;
+    left: 20%;
+  }
+  </style>
   <body>
     <div class="container">
         <!-- NAVIGATION BEGINS HERE -->
@@ -36,107 +43,132 @@
                 <a href="#" class="link nav__link">contact</a>
               </li>
             </ul>
-        </nav>
+      </nav>
 
+          <!-- HEADER -->
+          <header class="header">
 
+          </header>
       <!-- CREATE FORM -->
       <main class="admin__main">
         <!-- action="../pages/login.html" -->
-          <form enctype='application/json' action="../pages/login.html" class="form form__create">
+        <!-- enctype='application/json' -->
+        <!-- action="http://localhost/3000/admin" -->
+          <form  id="addAnimal" action="" class="form form__create" >
             <!-- LAST NAME -->
             <div class="form__group">
-              <label class="form__label" for="last-name"> last name:</label>
+              <label class="form__label" for="specie-name"> Specie Name:</label>
               <input
                 type="text"
-                name="last-name"
-                id="last-name"
-                value=""
-                placeholder="Last Name" class="form__input"
-              />
-            </div>
-            <!-- FIRST NAME -->
-            <div class="form__group">
-              <label class="form__label" for="first-name"> first name:</label>
-              <input
-                type="text"
-                name="last-name"
-                id="first-name"
-                placeholder="First Name" class="form__input"
-                value=""
-              />
-            </div>
-            <!-- PASSWORD -->
-            <div class="form__group">
-              <label class="form__label" for="password"> password:</label>
-              <input
-                type="password"
-                name="password"
-                id="password"
-                value=""
-                placeholder="password" class="form__input"
-              />
-            </div>
-            <!-- PHONE NUMBER -->
-            <div class="form__group">
-              <label class="form__label" for="phone"> Phone Number:</label>
-              <input
-                type="tel"
-                name="phone"
-                id="phone"
-                value=""
-                placeholder="Phone Number" class="form__input"
-              />
-            </div>
-            <!-- EMAIL ADDRESS -->
-            <div class="form__group">
-              <label class="form__label" for="email"> Email:</label>
-              <input
-                type="email"
-                name="email"
-                id="email"
-                value=""
-                placeholder="example@example.com"  class="form__input"
-              />
-            </div>
-            <!-- SUBMIT FORM -->
-            <button type="submit" class="form__btn">sign up</button>
-          </form>
-
-
-          <!-- SIGN IN -->
-          <form action="../pages/login.html" class="form form__sign-in">
-    
-            <!-- EMAIL ADDRESS -->
-            <div class="form__group">
-              <label class="form__label" for="email"> Email:</label>
-              <input
-                type="email"
-                name="email"
-                id="email"
-                value=""
-                placeholder="example@example.com"  class="form__input"
-              />
-            </div>
-
-              <!-- PASSWORD -->
-            <div class="form__group">
-                    <label class="form__label" for="password"> password:</label>
-                    <input
-                      type="password"
-                      name="password"
-                      id="password"
-                      value=""
-                      placeholder="password" class="form__input"
-                    />
-            </div>
+                name="specie-name"
+                id="specie-name"
                 
-            <!-- SUBMIT FORM -->
-            <button type="submit" class="form__btn">sign in</button>
+                placeholder="Specie Name" class="form__input"
+              />
+            </div>
+            <!-- FAMILY NAME -->
+            <div class="form__group">
+              <label class="form__label" for="family-name"> Family Name:</label>
+              <input
+                type="text"
+                name="family-name"
+                id="family-name"
+                placeholder="Family Name" class="form__input"
+                
+              />
+            </div>
+            <!-- ANIMAL NAME -->
+            <div class="form__group">
+              <label class="form__label" for="password"> animal name</label>
+              <input
+                type="text"
+                name="animal"
+                id="animal"
+                placeholder="Animal Name" class="form__input"
+              />
+            </div>
+            <!-- DESCRIPTION -->
+          
+            <!-- ANIMAL URL -->
+            <div class="form__group">
+              <label class="form__label" for="url"> image URL</label>
+              <input
+                type="text"
+                name="url"
+                id="url"
+                placeholder="Image Url" class="form__input"
+              />
+            </div>
+            <!-- DESCRIPTION -->
+            <div class="form__group">
+              <label class="form__label" for="phone"> Description:</label>
+              <input
+                type="text"
+                name="phone"
+                id="description"
+                value=""
+                placeholder="Description" class="form__input"
+              />
+            </div>
+            
+            <!-- ADD ANIMAL -->
+            <button type="submit" class="form__btn" id="addbtn">add</button>
           </form>
 
-      </main>
+
+
+
+          <!-- DELETE ANIMAL -->
+          <form  id="deleteAnimal" action="" class="form form__create" >
+            <!-- LAST NAME -->
+            <div class="form__group">
+              <label class="form__label" for="specie-name"> Specie Name:</label>
+              <input
+                type="text"
+                name="specie-name"
+                id="specie-name"
+                placeholder="Specie Name" class="form__input"
+              />
+            </div>
+            <!-- FAMILY NAME -->
+            <div class="form__group">
+              <label class="form__label" for="family-name"> Family Name:</label>
+              <input
+                type="text"
+                name="family-name"
+                id="family-name"
+                placeholder="Family Name" class="form__input"
+                
+              />
+            </div>
+            <!-- ANIMAL NAME -->
+            <div class="form__group">
+              <label class="form__label" for="animal"> animal name</label>
+              <input
+                type="text"
+                name="animal"
+                id="animal"
+                
+                placeholder="Animal Name" class="form__input"
+              />
+            </div>
+            <!-- DESCRIPTION -->
+            <div class="form__group">
+              <label class="form__label" for="description"> Description:</label>
+              <input
+                type="text"
+                name="description"
+                id="description"
+                value=""
+                placeholder="Desciption" class="form__input"
+              />
+            </div>
+            
+            <!-- ADD ANIMAL -->
+            <button type="submit" class="form__btn" id="signup"> delete</button>
+          </form>
+          <script src="../js/animals.js"></script>
     </div>
-    <!-- SCRIPT -->
-    <script src="../js/admin.js"></script>
-  </body>
+
+</body>
 </html>
