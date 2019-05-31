@@ -3,6 +3,7 @@
     display: flex;
     align-items: center;
     padding: 1rem 2rem;
+    background-color: #ffffff;
 }
 .logo-container {
     margin-right: 2rem;
@@ -106,5 +107,12 @@ height: 100%;
 }
 
 .nav__link {
-    
+    transition: .3s ease all;
+}
+.nav__link:link {
+    color: var(--color-overlay);
+}
+
+.nav__link:hover {
+    color: var(--color-overlay);
 }

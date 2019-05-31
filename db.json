@@ -1,5 +1,213 @@
 {
-    "admin": [
-        {"id": 1, "lastName": "okafor", "firstName":"uche", "password": "password", "phoneNumber": "081349283938", "email": "egovictorc@gmail.com"  }
-    ]
+  "admin": [
+    {
+      "firstName": "ego",
+      "lastName": "victor",
+      "email": "egecixhjh@gmail.com",
+      "password": "",
+      "phoneNumber": "08063904500",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 2
+    },
+    {
+      "email": "egovicto@gmail.com",
+      "password": "4500",
+      "id": 5
+    },
+    {
+      "email": "okekek@gmail.com",
+      "password": "5000000",
+      "date": "Thu May 30 2019 20:42:34 GMT+0100 (West Africa Standard Time)",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "date": "Thu May 30 2019 20:44:54 GMT+0100 (West Africa Standard Time)",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "date": "Thu May 30 2019 20:49:46 GMT+0100 (West Africa Standard Time)",
+      "id": 8
+    },
+    {
+      "email": "egovictorc@gmail.com",
+      "password": "asa",
+      "date": "Fri May 31 2019 07:53:10 GMT+0100 (West Africa Standard Time)",
+      "id": 9
+    },
+    {
+      "email": "aewjekwk@gmail.com",
+      "password": "asa",
+      "date": "Fri May 31 2019 07:54:37 GMT+0100 (West Africa Standard Time)",
+      "id": 10
+    },
+    {
+      "email": "asdas@gmail.com",
+      "password": "asdssa",
+      "date": "Fri May 31 2019 07:58:23 GMT+0100 (West Africa Standard Time)",
+      "id": 11
+    },
+    {
+      "email": "asdasda@gmail.com",
+      "password": "adsads",
+      "date": "Fri May 31 2019 08:01:23 GMT+0100 (West Africa Standard Time)",
+      "id": 12
+    }
+  ],
+  "new-admin": [
+    {
+      "id": 1,
+      "lastName": "okafor",
+      "firstName": "uche",
+      "password": "password",
+      "phoneNumber": "081349283938",
+      "email": "egovictorc@gmail.com"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 3
+    },
+    {
+      "firstName": "sssssssssssssssssssss",
+      "lastName": "aaaaaaaaaaa",
+      "email": "egovictorc@gmail.com",
+      "password": "aasdasas",
+      "phoneNumber": "0903239",
+      "id": 4
+    },
+    {
+      "firstName": "osssjfdjh",
+      "lastName": "ksdkdjajk",
+      "email": "kjajsdsj@gmail.com",
+      "password": "kjaskkdja",
+      "phoneNumber": "12982189",
+      "id": 5
+    },
+    {
+      "firstName": "sdddddddddddddddd",
+      "lastName": "aaaaaaaaaaaaaaaaa",
+      "email": "weew@gmail.com",
+      "password": "saaaaaaaaaaaaaaaa",
+      "phoneNumber": "123232",
+      "id": 6
+    },
+    {
+      "firstName": "sfsdfsd",
+      "lastName": "aaaaaaaaaaaaaaaa",
+      "email": "egovictorc@gmail.com",
+      "password": "aaaaaaaaaaaaaaaaaaa",
+      "phoneNumber": "12343",
+      "id": 7
+    },
+    {
+      "firstName": "lkdaas",
+      "lastName": "ego",
+      "email": "egovictorc@gmail.com",
+      "password": "idksdlfkd",
+      "phoneNumber": "123039",
+      "id": 8
+    },
+    {
+      "firstName": "asdasdsa",
+      "lastName": "assa",
+      "email": "asasaasasasa@gmail.com",
+      "password": "sadasd",
+      "phoneNumber": "sadas",
+      "id": 9
+    }
+  ],
+  "animals": [
+    {
+      "specieName": "",
+      "description": "",
+      "animalName": "",
+      "id": 2,
+      "url": ""
+    },
+    {
+      "specieName": "sdas",
+      "description": "sdasdsadsa",
+      "animalName": "sdas",
+      "id": 3,
+      "url": "sdasd"
+    },
+    {
+      "specieName": "sdgfhgj",
+      "description": "aesrdtfyguh",
+      "animalName": "sadfghj",
+      "id": 4,
+      "url": "aesrdtfyguhj"
+    },
+    {
+      "specieName": "asas",
+      "animalName": "assa",
+      "description": "asas",
+      "url": "sasa",
+      "id": 5
+    },
+    {
+      "specieName": "zczs",
+      "animalName": "sxsds",
+      "description": "sdasdsa",
+      "url": "adasd",
+      "id": 6
+    },
+    {
+      "specieName": "szxcvh",
+      "animalName": "zxcv",
+      "description": "sdfghhj",
+      "url": "zxcvb",
+      "id": 7
+    },
+    {
+      "specieName": "asa",
+      "animalName": "sasa",
+      "description": "asas",
+      "url": "sasa",
+      "id": 8
+    },
+    {
+      "specieName": "sdgfhgj",
+      "animalName": "sadfghj",
+      "description": "aesrdtfyguh",
+      "url": "aesrdtfyguhj",
+      "id": 9
+    },
+    {
+      "specieName": "sdas",
+      "animalName": "sdas",
+      "description": "sdasdsadsa",
+      "url": "sdasd",
+      "id": 10
+    },
+    {
+      "specieName": "sdfsdf",
+      "animalName": "dsfsdfsd",
+      "description": "sdfsdfsd",
+      "url": "sdfsdfsdf",
+      "id": 11
+    }
+  ]
 }

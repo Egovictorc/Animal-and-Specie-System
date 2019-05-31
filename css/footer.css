@@ -1,16 +1,45 @@
 .footer {
-
-
+    background-image: linear-gradient( rgba(200, 200, 200, .7), rgb(58, 58, 185)), 
+    url("../images/cheetah-2268955_1920.jpg");
+    min-height: 12rem;
+    padding: 2rem
 }
-
-.footer__list {
+.footer__links {
+    display: flex;
+    justify-content: space-between;
     
+}
+.footer__list,
+.footer__social {
+    display: flex;
+    /* background-color: red; */
+    /* margin-right: auto; */
+    list-style: none;
 }
 
 .footer__item {
-
+    list-style-type: none;
+    margin-right: 1rem;
+}
+.footer_item:not(:last-child){
+    margin-right: var(--margin-side);
 }
 
 .footer__link {
+    transition: .3s ease all;
+    color: #fff;
+ }
 
+.footer__link:hover {
+    color: var(--color-overlay);
+}
+.social__item {
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.footer__par {
+    text-align: center;
+    color: #ffffff;
+    text-transform: capitalize;
 }

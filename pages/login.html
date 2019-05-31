@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Draconia</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/admin.css">
+    <script src="../js/jquery-3.4.1.min.js"></script>
+  </head>
+
+  <body>
+    <div class="container">
+        <!-- NAVIGATION BEGINS HERE -->
+      <nav class="nav">
+            <!-- NAV TOGGLE -->
+    
+            <label class="nav__toggle">
+              <!-- <input type="checkbox" class="nav__checkbox" id="nav-checkbox" /> -->
+              <span class="nav__icon"></span>
+            </label>
+            <!-- LOGO -->
+            <div class="logo-container">
+              <img class="logo" alt="logo" src="../images/logo.png" />
+            </div>
+            <!-- LINKS -->
+            <ul class="nav__list">
+              <li class="nav__item"><a href="../adminIndex.html" class="link nav__link">home</a></li>
+              <li class="nav__item">
+                <a href="#" class="link nav__link">About</a>
+              </li>
+              <li class="nav__item"><a href="#" class="link nav__link">blog</a></li>
+              <li class="nav__item">
+                <a href="#" class="link nav__link">contact</a>
+              </li>
+            </ul>
+        </nav>
+
+
+      <!-- CREATE FORM -->
+      <main class="admin__main">
+        <!-- action="../pages/login.html" -->
+        <!-- enctype='application/json' -->
+        <!-- action="http://localhost/3000/admin" -->
+          <form  id="signupform" action="" class="form form__create" >
+            <!-- LAST NAME -->
+            <div class="form__group">
+              <label class="form__label" for="last-name"> last name:</label>
+              <input
+                type="text"
+                name="last-name"
+                id="last-name"
+                
+                placeholder="Last Name" class="form__input"
+              />
+            </div>
+            <!-- FIRST NAME -->
+            <div class="form__group">
+              <label class="form__label" for="first-name"> first name:</label>
+              <input
+                type="text"
+                name="last-name"
+                id="first-name"
+                placeholder="First Name" class="form__input"
+                
+              />
+            </div>
+            <!-- PASSWORD -->
+            <div class="form__group">
+              <label class="form__label" for="password"> password:</label>
+              <input
+                type="password"
+                name="password"
+                id="password"
+                
+                placeholder="password" class="form__input"
+              />
+            </div>
+            <!-- PHONE NUMBER -->
+            <div class="form__group">
+              <label class="form__label" for="phone"> Phone Number:</label>
+              <input
+                type="tel"
+                name="phone"
+                id="phone"
+                value=""
+                placeholder="Phone Number" class="form__input"
+              />
+            </div>
+            <!-- EMAIL ADDRESS -->
+            <div class="form__group">
+              <label class="form__label" for="email"> Email:</label>
+              <input
+                type="email"
+                name="email"
+                id="email"
+                value=""
+                placeholder="example@example.com"  class="form__input"
+              />
+            </div>
+            <!-- SUBMIT FORM -->
+            <button type="submit" class="form__btn" id="signup">sign up</button>
+          </form>
+
+
+          <!-- SIGN IN -->
+          <form action="../pages/login.html" id="signinform" class="form form__sign-in">
+    
+            <!-- EMAIL ADDRESS -->
+            <div class="form__group">
+              <label class="form__label" for="passemail"> Email:</label>
+              <input
+                type="email"
+                name="email"
+                id="passemail"
+                placeholder="example@example.com"  class="form__input"
+              />
+            </div>
+
+              <!-- PASSWORD -->
+            <div class="form__group">
+                    <label class="form__label" for="passpassword"> password:</label>
+                    <input
+                      type="password"
+                      name="password"
+                      id="passpassword"
+                      placeholder="password" class="form__input"
+                    />
+            </div>
+                
+            <!-- SUBMIT FORM -->
+            <button type="submit" class="form__btn">sign in</button>
+          </form>
+
+      </main>
+    </div>
+    <!-- SCRIPT -->
+    <script src="../js/admin.js"></script>
+  </body>
+</html>
