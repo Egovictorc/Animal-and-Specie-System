@@ -17,172 +17,39 @@
       "id": 2
     },
     {
-      "firstName": "mylast",
-      "lastName": "myname",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 3
-    },
-    {
-      "firstName": "laksjajsj",
-      "lastName": "victro",
-      "email": "",
-      "password": "password",
-      "phoneNumber": "phone ",
-      "id": 4
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
+      "email": "egovicto@gmail.com",
+      "password": "4500",
       "id": 5
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
+      "email": "okekek@gmail.com",
+      "password": "5000000",
+      "date": "Thu May 30 2019 20:42:34 GMT+0100 (West Africa Standard Time)",
       "id": 6
     },
     {
-      "firstName": "",
-      "lastName": "",
       "email": "",
       "password": "",
-      "phoneNumber": "",
+      "date": "Thu May 30 2019 20:44:54 GMT+0100 (West Africa Standard Time)",
       "id": 7
     },
     {
-      "firstName": "",
-      "lastName": "",
       "email": "",
       "password": "",
-      "phoneNumber": "",
+      "date": "Thu May 30 2019 20:49:46 GMT+0100 (West Africa Standard Time)",
       "id": 8
     },
     {
-      "firstName": "goat",
-      "lastName": "mammal",
-      "email": "",
-      "password": "00000000",
-      "phoneNumber": "0080",
+      "email": "egovictorc@gmail.com",
+      "password": "asa",
+      "date": "Fri May 31 2019 07:53:10 GMT+0100 (West Africa Standard Time)",
       "id": 9
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
+      "email": "aewjekwk@gmail.com",
+      "password": "asa",
+      "date": "Fri May 31 2019 07:54:37 GMT+0100 (West Africa Standard Time)",
       "id": 10
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 11
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 12
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 13
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 14
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 15
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 16
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 17
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 18
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 19
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 20
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 21
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 22
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
-      "id": 23
     }
   ],
   "new-admin": [
@@ -193,63 +60,79 @@
       "password": "password",
       "phoneNumber": "081349283938",
       "email": "egovictorc@gmail.com"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 3
+    },
+    {
+      "firstName": "sssssssssssssssssssss",
+      "lastName": "aaaaaaaaaaa",
+      "email": "egovictorc@gmail.com",
+      "password": "aasdasas",
+      "phoneNumber": "0903239",
+      "id": 4
+    },
+    {
+      "firstName": "osssjfdjh",
+      "lastName": "ksdkdjajk",
+      "email": "kjajsdsj@gmail.com",
+      "password": "kjaskkdja",
+      "phoneNumber": "12982189",
+      "id": 5
+    },
+    {
+      "firstName": "sdddddddddddddddd",
+      "lastName": "aaaaaaaaaaaaaaaaa",
+      "email": "weew@gmail.com",
+      "password": "saaaaaaaaaaaaaaaa",
+      "phoneNumber": "123232",
+      "id": 6
+    },
+    {
+      "firstName": "sfsdfsd",
+      "lastName": "aaaaaaaaaaaaaaaa",
+      "email": "egovictorc@gmail.com",
+      "password": "aaaaaaaaaaaaaaaaaaa",
+      "phoneNumber": "12343",
+      "id": 7
+    },
+    {
+      "firstName": "lkdaas",
+      "lastName": "ego",
+      "email": "egovictorc@gmail.com",
+      "password": "idksdlfkd",
+      "phoneNumber": "123039",
+      "id": 8
     }
   ],
   "animals": [
     {
-      "id": 1,
-      "animalName": "cheetah",
-      "specie": "amphibians",
-      "url": "images/cheetah.jpg",
-      "description": "This is"
-    },
-    {
+      "specieName": "",
+      "familyName": "",
+      "description": "",
+      "animalName": "",
       "id": 2,
-      "animalName": "lion",
-      "specieName": "amphibian",
-      "familyName": "family",
-      "url": "images/cheetah.jpg",
-      "description": "This is"
+      "url": ""
     },
     {
-      "specieName": "",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "images/cheetah.jpg",
-      "id": 3
-    },
-    {
-      "specieName": "",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "images/cheetah.jpg",
-      "id": 4
-    },
-    {
-      "specieName": "reptiles",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "images/cheetah.jpg",
-      "id": 5
-    },
-    {
-      "specieName": "reptiles",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "images/cheetah.jpg",
-      "id": 6
-    },
-    {
-      "specieName": "",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "images/cheetah.jpg",
-      "id": 7
+      "specieName": "asa",
+      "description": "asas",
+      "animalName": "sasa",
+      "id": 3,
+      "url": "sasa"
     },
     {
       "specieName": "",
@@ -257,7 +140,28 @@
       "animalName": "",
       "description": "",
       "url": "",
-      "id": 8
+      "id": 4
+    },
+    {
+      "specieName": "asas",
+      "animalName": "assa",
+      "description": "asas",
+      "url": "sasa",
+      "id": 5
+    },
+    {
+      "specieName": "zczs",
+      "animalName": "sxsds",
+      "description": "sdasdsa",
+      "url": "adasd",
+      "id": 6
+    },
+    {
+      "specieName": "szxcvh",
+      "animalName": "zxcv",
+      "description": "sdfghhj",
+      "url": "zxcvb",
+      "id": 7
     }
   ]
 }

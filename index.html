@@ -14,6 +14,14 @@
     <script src="js/jquery-3.4.1.min.js"></script>
   </head>
 
+  <!-- style for video -->
+  <style>
+    .video__cont {
+      position: fixed;
+      bottom: 0;
+    }
+    </style>
+
   <!-- BODY BEGINS HERE -->
   <body>
     <div class="container">
@@ -22,7 +30,7 @@
         <!-- NAV TOGGLE -->
 
         <label class="nav__toggle">
-          <input type="checkbox" class="nav__checkbox" id="nav-checkbox" />
+          <!-- <input type="checkbox" class="nav__checkbox" id="nav-checkbox" /> -->
           <span class="nav__icon"></span>
         </label>
         <!-- LOGO -->
@@ -44,7 +52,7 @@
         </ul>
 
         <!-- NAV ADMIN -->
-        <a href="pages/login.html" class="nav__admin">admin</a>
+        <!-- <a href="pages/login.html" class="nav__admin">admin</a> -->
         <!-- NAV PLAYSTORE -->
         <div class="playstore-container">
           <img
@@ -65,6 +73,14 @@
             <span class="capitalize">animals</span>
           </span>
         </h1>
+      </div>
+
+      <div class="video__cont">
+        <video width="320" height="240" autoplay loop muted>
+          <source src="images/animal_video.webm" type="video/webm">
+            <source src="images/animal_video.webm" type="video/webm">
+              Your browser does not support the video format
+        </video>
       </div>
 
       <!-- MAIN BEGINS HERE -->
@@ -120,9 +136,9 @@
             </div>
 
             <div class="specie__div">
-              <h3 class="family__name heading">snake</h3>
+              <h3 class="family__name heading">alligator</h3>
               <div class="specie__img-cont">
-                <img src="images/snake-2.jpg" alt="" class="specie__img" />
+                <img src="images/alligator.jpg" alt="alligator" class="specie__img" />
               </div>
               <p class="specie__desc">
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius
@@ -138,7 +154,7 @@
 
               <div class="section__specie" id="reptiles">
             <div class="specie__div" id="reptile">
-              <h3 class="family__name">reptiles</h3>
+              <h3 class="family__name heading">cheetah</h3>
               <div class="specie__img-cont">
                 <img src="images/cheetah.jpg" alt="" class="specie__img" />
               </div>
@@ -150,7 +166,7 @@
               </p>
             </div>
             <div class="specie__div">
-              <h3 class="family__name">reptiles</h3>
+              <h3 class="family__name heading">cobra</h3>
               <div class="specie__img-cont">
                 <img src="images/cobra.jpg" alt="" class="specie__img" />
               </div>
@@ -162,7 +178,7 @@
               </p>
             </div>
             <div class="specie__div">
-              <h3 class="family__name">reptiles</h3>
+              <h3 class="family__name heading">zebra</h3>
               <div class="specie__img-cont">
                 <img src="images/zebra.jpg" alt="" class="specie__img" />
               </div>
@@ -174,7 +190,7 @@
               </p>
             </div>
             <div class="specie__div">
-              <h3 class="family__name">reptiles</h3>
+              <h3 class="family__name">snake</h3>
               <div class="specie__img-cont">
                 <img src="images/snake.jpg" alt="" class="specie__img" />
               </div>
