@@ -70,9 +70,10 @@ $(document).ready(function() {
     ) {
     //   window.location.href = "../pages/index.html";
     alert(`${newAnimal.animalName} was added succesfully`);
-      alert(JSON.stringify(success));
+      // alert(JSON.stringify(success));
       // GET ANIMAL FROM
     });
+    $(this).closest("form").find('input[type]').val("");
     } 
     else {
         alert("Please fill all input fields")
@@ -113,7 +114,9 @@ $(document).ready(function() {
         //   alert(targetAnimal.animalName);
           alert(`updated successfully`);
         }
+        
       });
+      $(this).closest("form").find('input[type]').val("");
     } else {
       alert(`Please fill all input fields`);
     }

@@ -50,6 +50,18 @@
       "password": "asa",
       "date": "Fri May 31 2019 07:54:37 GMT+0100 (West Africa Standard Time)",
       "id": 10
+    },
+    {
+      "email": "asdas@gmail.com",
+      "password": "asdssa",
+      "date": "Fri May 31 2019 07:58:23 GMT+0100 (West Africa Standard Time)",
+      "id": 11
+    },
+    {
+      "email": "asdasda@gmail.com",
+      "password": "adsads",
+      "date": "Fri May 31 2019 08:01:23 GMT+0100 (West Africa Standard Time)",
+      "id": 12
     }
   ],
   "new-admin": [
@@ -116,31 +128,37 @@
       "password": "idksdlfkd",
       "phoneNumber": "123039",
       "id": 8
+    },
+    {
+      "firstName": "asdasdsa",
+      "lastName": "assa",
+      "email": "asasaasasasa@gmail.com",
+      "password": "sadasd",
+      "phoneNumber": "sadas",
+      "id": 9
     }
   ],
   "animals": [
     {
       "specieName": "",
-      "familyName": "",
       "description": "",
       "animalName": "",
       "id": 2,
       "url": ""
     },
     {
-      "specieName": "asa",
-      "description": "asas",
-      "animalName": "sasa",
+      "specieName": "sdas",
+      "description": "sdasdsadsa",
+      "animalName": "sdas",
       "id": 3,
-      "url": "sasa"
+      "url": "sdasd"
     },
     {
-      "specieName": "",
-      "familyName": "",
-      "animalName": "",
-      "description": "",
-      "url": "",
-      "id": 4
+      "specieName": "sdgfhgj",
+      "description": "aesrdtfyguh",
+      "animalName": "sadfghj",
+      "id": 4,
+      "url": "aesrdtfyguhj"
     },
     {
       "specieName": "asas",
@@ -162,6 +180,34 @@
       "description": "sdfghhj",
       "url": "zxcvb",
       "id": 7
+    },
+    {
+      "specieName": "asa",
+      "animalName": "sasa",
+      "description": "asas",
+      "url": "sasa",
+      "id": 8
+    },
+    {
+      "specieName": "sdgfhgj",
+      "animalName": "sadfghj",
+      "description": "aesrdtfyguh",
+      "url": "aesrdtfyguhj",
+      "id": 9
+    },
+    {
+      "specieName": "sdas",
+      "animalName": "sdas",
+      "description": "sdasdsadsa",
+      "url": "sdasd",
+      "id": 10
+    },
+    {
+      "specieName": "sdfsdf",
+      "animalName": "dsfsdfsd",
+      "description": "sdfsdfsd",
+      "url": "sdfsdfsdf",
+      "id": 11
     }
   ]
 }

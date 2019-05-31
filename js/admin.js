@@ -67,11 +67,11 @@ $(document).ready(function() {
         // $("input#password").attr("value", "");
         // $("input#phone").attr("value", "");
       });
-      // $(this).closest("form").find('input[type]').val("");
+      $(this).closest("form").find('input[type]').val("");
       
     } else {
       alert(`Please fill all input fields`);
-      alert(addAdmin.email);
+      // alert(addAdmin.email);
     }
     
   });
