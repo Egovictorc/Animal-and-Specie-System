@@ -74,140 +74,165 @@
       "email": "egovictorc@gmail.com"
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
+      "firstName": "victor",
+      "lastName": "Ego",
+      "email": "egovictorc@gmail.com",
+      "password": "50000",
+      "phoneNumber": "0808192129",
       "id": 2
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "password": "",
-      "phoneNumber": "",
+      "firstName": "uche",
+      "lastName": "mmaduka",
+      "email": "egovictorc@gmail.com",
+      "password": "4600",
+      "phoneNumber": "09029021920",
       "id": 3
     },
     {
-      "firstName": "sssssssssssssssssssss",
-      "lastName": "aaaaaaaaaaa",
+      "firstName": "asasdsa",
+      "lastName": "asdsds",
       "email": "egovictorc@gmail.com",
-      "password": "aasdasas",
-      "phoneNumber": "0903239",
+      "password": "adsds",
+      "phoneNumber": "233",
       "id": 4
     },
     {
-      "firstName": "osssjfdjh",
-      "lastName": "ksdkdjajk",
-      "email": "kjajsdsj@gmail.com",
-      "password": "kjaskkdja",
-      "phoneNumber": "12982189",
+      "firstName": "uajsdnas",
+      "lastName": "vic",
+      "email": "egovictorc@gmail.com",
+      "password": "jsdjdfnj",
+      "phoneNumber": "jelelek",
       "id": 5
     },
     {
-      "firstName": "sdddddddddddddddd",
-      "lastName": "aaaaaaaaaaaaaaaaa",
-      "email": "weew@gmail.com",
-      "password": "saaaaaaaaaaaaaaaa",
-      "phoneNumber": "123232",
+      "firstName": "asasssssssssssss",
+      "lastName": "asssssssssssssss",
+      "email": "egovictor@gmail.com",
+      "password": "sadasas",
+      "phoneNumber": "12222121",
       "id": 6
     },
     {
-      "firstName": "sfsdfsd",
-      "lastName": "aaaaaaaaaaaaaaaa",
+      "firstName": "aaaaaaaaaaaaaaaaa",
+      "lastName": "wwwwwwwwwwwwwww",
       "email": "egovictorc@gmail.com",
-      "password": "aaaaaaaaaaaaaaaaaaa",
-      "phoneNumber": "12343",
+      "password": "aaaaaaaaaaaaaaaaa",
+      "phoneNumber": "12121",
       "id": 7
     },
     {
-      "firstName": "lkdaas",
-      "lastName": "ego",
-      "email": "egovictorc@gmail.com",
-      "password": "idksdlfkd",
-      "phoneNumber": "123039",
+      "firstName": "asaaaaaaaaaaaa",
+      "lastName": "aaaaaaaaaaaaaaaaassas",
+      "email": "egovictor@gmail.com",
+      "password": "asasa",
+      "phoneNumber": "1111111111111111",
       "id": 8
     },
     {
-      "firstName": "asdasdsa",
-      "lastName": "assa",
-      "email": "asasaasasasa@gmail.com",
-      "password": "sadasd",
-      "phoneNumber": "sadas",
+      "firstName": "asas",
+      "lastName": "sdfsd",
+      "email": "Egovictorc@gmail.com",
+      "password": "sadsd",
+      "phoneNumber": "121222",
       "id": 9
+    },
+    {
+      "firstName": "sdfsdfd",
+      "lastName": "dgfgdf",
+      "email": "Egovictorc@gmail.com",
+      "password": "dsdfdf",
+      "phoneNumber": "122121",
+      "id": 10
+    },
+    {
+      "firstName": "asdsdas",
+      "lastName": "aasdas",
+      "email": "egovictorc@gmail.com",
+      "password": "asdsds",
+      "phoneNumber": "12121212",
+      "id": 11
+    },
+    {
+      "firstName": "asasa",
+      "lastName": "sdfdfds",
+      "email": "Egovictorc@gmail.com",
+      "password": "asssasdsa",
+      "phoneNumber": "1212121",
+      "id": 12
+    },
+    {
+      "firstName": "sdfdsfsda",
+      "lastName": "dsfsdfsd",
+      "email": "egovictorc@gmail.com",
+      "password": "asdasdas",
+      "phoneNumber": "121212",
+      "id": 13
+    },
+    {
+      "firstName": "dasdas",
+      "lastName": "ssdfd",
+      "email": "egovictorc@gmail.com",
+      "password": "sdasdas",
+      "phoneNumber": "sdasdsa",
+      "id": 14
+    },
+    {
+      "firstName": "qweqw",
+      "lastName": "weq",
+      "email": "egovictorc@gmail.com",
+      "password": "qwewqew",
+      "phoneNumber": "1212",
+      "id": 15
+    },
+    {
+      "firstName": "asasdas",
+      "lastName": "sasdsd",
+      "email": "egovictor@gmail.com",
+      "password": "asas",
+      "phoneNumber": "1212121",
+      "id": 16
+    },
+    {
+      "firstName": "wqewew",
+      "lastName": "eaew",
+      "email": "Egovictorc@gmail.com",
+      "password": "wewe",
+      "phoneNumber": "122121",
+      "id": 17
+    },
+    {
+      "firstName": "sddfsdf",
+      "lastName": "sfs",
+      "email": "egovictorc@gmail.com",
+      "password": "sdfsdfsdsd",
+      "phoneNumber": "08063904500",
+      "id": 18
+    },
+    {
+      "firstName": "asasds",
+      "lastName": "sadasd",
+      "email": "aaasd@gmail.com",
+      "password": "assdsd",
+      "phoneNumber": "08063904500",
+      "id": 19
+    },
+    {
+      "firstName": "xzcvb",
+      "lastName": "xcgvb",
+      "email": "egovictor@gmail.com",
+      "password": "asdssds",
+      "phoneNumber": "121212",
+      "id": 20
     }
   ],
   "animals": [
     {
-      "specieName": "",
-      "description": "",
-      "animalName": "",
-      "id": 2,
-      "url": ""
-    },
-    {
-      "specieName": "sdas",
-      "description": "sdasdsadsa",
-      "animalName": "sdas",
-      "id": 3,
-      "url": "sdasd"
-    },
-    {
-      "specieName": "sdgfhgj",
-      "description": "aesrdtfyguh",
-      "animalName": "sadfghj",
-      "id": 4,
-      "url": "aesrdtfyguhj"
-    },
-    {
-      "specieName": "asas",
-      "animalName": "assa",
-      "description": "asas",
-      "url": "sasa",
-      "id": 5
-    },
-    {
-      "specieName": "zczs",
-      "animalName": "sxsds",
-      "description": "sdasdsa",
-      "url": "adasd",
-      "id": 6
-    },
-    {
-      "specieName": "szxcvh",
-      "animalName": "zxcv",
-      "description": "sdfghhj",
-      "url": "zxcvb",
-      "id": 7
-    },
-    {
-      "specieName": "asa",
-      "animalName": "sasa",
-      "description": "asas",
-      "url": "sasa",
-      "id": 8
-    },
-    {
-      "specieName": "sdgfhgj",
-      "animalName": "sadfghj",
-      "description": "aesrdtfyguh",
-      "url": "aesrdtfyguhj",
-      "id": 9
-    },
-    {
-      "specieName": "sdas",
-      "animalName": "sdas",
-      "description": "sdasdsadsa",
-      "url": "sdasd",
-      "id": 10
-    },
-    {
-      "specieName": "sdfsdf",
-      "animalName": "dsfsdfsd",
-      "description": "sdfsdfsd",
-      "url": "sdfsdfsdf",
-      "id": 11
+      "specieName": "reptile",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Eius veritatis eligendi ut quisquam facilis dicta nam maxime",
+      "animalName": "cameleon",
+      "id": 1,
+      "url": "images/cameleon.jpg"
     }
   ]
 }

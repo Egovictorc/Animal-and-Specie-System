@@ -24,9 +24,9 @@ $(document).ready(function() {
     $.getJSON("http://localhost:3000/new-admin", function(admins) {
       $.each(admins, function(index, value) {
           registerArray.push(value.email)
-        if (value[email] === addAdmin.email) {
+        if (value === addAdmin.email) {
           registerCount = registerCount + 1;  
-          console.log(value[email])
+          // console.log(value[email])
         }
       });
       // isRegistered = ( registerCount === 0 ) ? false : true;
@@ -47,7 +47,7 @@ $(document).ready(function() {
         errorCount++;
       }
     }
-    if (isRegistered) {
+    if ( isRegistered === true) {
       alert(`You have registered before, Please sign in`);
     } else if (errorCount === 0 && ( isRegistered === false) ) {
       $.post("http://localhost:3000/new-admin", addAdmin, function(
